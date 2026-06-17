@@ -198,9 +198,8 @@ TriageIQ is a demonstration project built to explore applied LLM engineering wit
 ---
 👩‍💻 Author
 Nayana Majeti
-B.Tech — AI & ML | Vishwakarma Institute of Technology, Pune
-AWS Certified AI Practitioner | Azure AI Fundamentals
-📧 nayana.majeti@gmail.com | LinkedIn
+B.Tech — AI & ML | Vishwakarma Institute of Technology, Pune.
+
 ---
 📄 License
 MIT License — feel free to use, modify, and build on top of this.
